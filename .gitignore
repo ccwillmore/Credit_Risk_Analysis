@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Ignore LoanStats_2019Q1.csv
+LoanStats_2019Q1.csv
+
 # C extensions
 *.so
 
